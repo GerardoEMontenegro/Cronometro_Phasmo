@@ -1,4 +1,4 @@
-⏱️ Cronómetro para Phasmophobia
+# ⏱️Cronómetro para Phasmophobia
 Un cronómetro simple y funcional desarrollado en Python, ideal para usar durante partidas de Phasmophobia, donde controlar el tiempo es clave para planear estrategias y evitar la muerte 😱.
 
 🎮 Funciones principales
